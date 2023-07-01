@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>CaliDef Custom Collectables</title>
+
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>CaliDef Custom Collectables</h1>
+
+    <nav>
+
+      <ul>
+
+        <li><a href="#">Home</a></li>
+
+        <li><a href="#">Artwork</a></li>
+
+        <li><a href="#">Contact</a></li>
+
+      </ul>
+
+    </nav>
+
+  </header>
+
+  <main>
+
+    <section id="artwork">
+
+      <h2>Artwork for Sale</h2>
+
+      <div class="artwork-container">
+
+        <!-- Artwork items will be dynamically generated here -->
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <footer>
+
+    <p>&copy; 2023 CaliDef Custom Collectables. All rights reserved.</p>
+
+  </footer>
+
+</body>
+
+</html>
+
